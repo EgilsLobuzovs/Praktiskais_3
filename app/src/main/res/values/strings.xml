@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Repozitorijs G2</string>
+    <string name="btn_save">Saglabāt</string>
+    <string name="btn_activity2">Aktivitāte 2</string>
+    <string name="txt_a1_name">1.Aktivitāte</string>
+    <string name="btn_activity1">Aktivitāte 1</string>
+    <string name="txt_a2_name">2.Aktivitāte</string>
+    <string name="btn_read">Nolasīt</string>
+    <string name="shared_preferences"></string>
+
+</resources>
